@@ -1,6 +1,8 @@
 ## Linkrypto
 #### Asset Optimization Service for LSD (Liqudity Staking Derivatives)
 
+![image](https://assets.devfolio.co/hackathons/c5b0a9c7e0cb4b26bf301efd46b6cb0a/projects/aa1bfe7ae70c4c929b64c8165d4e74cc/22da50a2-d89b-4d3e-aee1-e57293543492.png)
+
 ### [Service Demo Movie](https://www.youtube.com/watch?v=GQk1j8S83VA)
 ### [Service Demo URL](https://main.d3r08tu0as5h7l.amplifyapp.com/manage)
 
